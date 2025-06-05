@@ -1,4 +1,4 @@
-{
+{-npm create---[eas-client]
   "name": "create-expo",
   "version": "3.4.2",
   "bin": "./build/index.js",
